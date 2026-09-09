@@ -2,6 +2,8 @@
 
 [查看 10 人中文问卷答案](问卷答案.md)
 
+[查看 10 人 Chat 测试](Chat测试-10人.md)
+
 - 数据集：MatrAIx Persona 1M 公共数据集，随机抽取 10 个 persona，种子 42。
 - 模型：GPT-4o-mini，通过 OpenRouter 调用。
 - 问卷：FocusLoop 家庭事务协调应用的产品与定价反馈，9 题/人。
